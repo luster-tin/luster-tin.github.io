@@ -1,0 +1,34 @@
+[
+  {
+    "id": 8,
+    "src": "assets/data/github/skechers.jpg",
+    "alt": "운동화",
+    "name": "딜라이트 4.0 메모리폼",
+    "color": "화이트",
+    "price": "89,000원"
+  },
+  {
+    "id": 9,
+    "src": "assets/data/github/reebok.jpg",
+    "alt": "리복 운동화",
+    "name": "리복 코트 시리즈",
+    "color": "화이트 / 블랙",
+    "price": "44,670원"
+  },
+  {
+    "id": 10,
+    "src": "assets/data/github/pro.jpg",
+    "alt": "운동화",
+    "name": "프로스펙스 경량 운동화",
+    "color": "블랙 / 화이트",
+    "price": "41,800원"
+  },
+  {
+    "id": 11,
+    "src": "assets/data/github/worldcup.jpg",
+    "alt": "월드컵 운동화",
+    "name": "겨울 방한화",
+    "color": "다양한 컬러",
+    "price": "9,900원 ~ "
+  }
+]
